@@ -4,12 +4,14 @@ menutitle: About me
 menuorder: 2
 excerpt:
 ---
-![With some friends and fellow MSU PhD linguistics students.](/images/msufriends.jpg)
-*With some friends and fellow MSU PhD linguistics students.*
+![](/images/adam-barnhardt-specto.png)
 
 ## [æɾəm ˈbɑ̃ɹnhɑɹʔ]
 
 I'm originally from North Carolina, where there is decidedly much less snow. Before starting at MSU in 2021, I earned BAs in German Studies and English in 2016 and an MA in English (linguistics) in 2020 from [North Carolina State University](https://linguistics.chass.ncsu.edu/). While there, I worked primarily on projects with [Robin Dodsworth](https://chass.ncsu.edu/people/rmdodswo/) and [Walt Wolfram](https://chass.ncsu.edu/people/wolfram/), including conducting fieldwork for a [project](https://www.voicesofchatham.org/) collecting acoustic data and oral histories from residents of Chatham County, North Carolina. In my [MA thesis](https://www.researchgate.net/publication/355424532_I_didn%27t_go_to_college_with_anyone_that_country_Age-stratified_indexicality_of_Southern-shifted_vowels), advised by Dr. Dodsworth, I investigated how perceived age of speaker and actual age of listener interact with one another in the way social information is indexed by Southern US English vowels. This was done in the context of a community relatively close to the city of Raleigh, where the Southern Vowel Shift has been shown to be [reversing over time](https://www.cambridge.org/core/journals/language-variation-and-change/article/abs/urban-rejection-of-the-vernacular-the-svs-undone/51144D9E1A6FBDFAD33D9671469BAE37).
+
+![With some friends and fellow MSU PhD linguistics students.](/images/msufriends.jpg)
+*With some friends and fellow MSU PhD linguistics students.*
 
 Since finishing my undergraduate degree, I have worked with language in various capacities outside of my formal education, including teaching German at a language institute in Chapel Hill, NC and doing linguistic research in Vienna, Austria on a Fulbright-Mach Award. I've lived for extended periods of time in both Germany and Austria, and enjoy returning to visit colleagues and friends when I can.
 
