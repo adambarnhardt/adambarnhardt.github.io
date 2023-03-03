@@ -24,15 +24,15 @@ $textcolor      : #fff;
 $text-color     : $textcolor;
 $border-color   : $text-color;
 $basecolor 		  : #fff;
-$compcolor 		  : #111;
+$compcolor 		  : #fff;
 $bordercolor    : $basecolor;
 $white          : #fff;
 $black          : #111;
 $accentcolor    : $white;
 
 /* buttons */
-$primary			: #111;
-$success			: #111;
+$primary			: #fff;
+$success			: #fff;
 $warning			: #dd8338;
 $danger				: #C64537;
 $info				  : #308cbc;
@@ -52,8 +52,8 @@ $vimeo-color        : #1ab7ea;
 $youtube-color      : #ff3333;
 
 /* links */
-$linkcolor 		    : #111;
-$link-color       : #111;
+$linkcolor 		    : #a5f0c1;
+$link-color       : #a5f0c1;
 $linkcolorhover 	: darken($linkcolor, 10);
 $linkcolorvisited : lighten($linkcolorhover, 20);
 $linkcolorfocus 	: darken($linkcolorvisited, 10);
