@@ -52,8 +52,8 @@ $vimeo-color        : #1ab7ea;
 $youtube-color      : #ff3333;
 
 /* links */
-$linkcolor 		    : #b9f5b8;
-$link-color       : $linkcolor;
+$linkcolor 		    : #111;
+$link-color       : #111;
 $linkcolorhover 	: darken($linkcolor, 10);
 $linkcolorvisited : lighten($linkcolorhover, 20);
 $linkcolorfocus 	: darken($linkcolorvisited, 10);
