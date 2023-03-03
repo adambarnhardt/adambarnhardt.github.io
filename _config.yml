@@ -1,22 +1,22 @@
 # Site wide configuration
 
-title: Adam Barnhardt -- linguist
+title: Adam Barnhardt: linguist
 locale: en_US
-logo: adam-barnhardt-specto.png
+logo:
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Adam Barnhardt (he/him)
   [ʔæɾəm ˈbɑ̃ɹnhɑɹʔ]
   avatar: adam_barnhardt_picture.jpg
-  bio: "PhD student in "
+  bio: "Sociolinguistics PhD student and grad assistant at Michigan State University."
   email: barnha60@msu.edu
   # Do not include the @ symbol in your Twitter username
   twitter: scheunenherz
   linkedin: #username
-  github: #username
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
-  researchgate: #username
+  github: adambarnhardt
+  orcid: 0000-0001-8921-0415
+  researchgate: Adam-Barnhardt
   mendeley: #username
   google:
     plus: #username
