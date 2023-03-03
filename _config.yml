@@ -1,12 +1,12 @@
 # Site wide configuration
 
-title: Adam Barnhardt - linguist
+title: Adam Barnhardt - [æɾəm ˈbɑ̃ɹnhɑɹʔ]
 locale: en_US
 logo:
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Adam Barnhardt (he/him) ʔæɾəm ˈbɑ̃ɹnhɑɹʔ
+  name: Adam Barnhardt (he/him)
   avatar: adam_barnhardt_picture.jpg
   bio: "Sociolinguistics PhD student and grad assistant at Michigan State University."
   email: barnha60@msu.edu
