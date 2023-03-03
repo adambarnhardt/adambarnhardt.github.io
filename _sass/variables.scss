@@ -31,7 +31,7 @@ $black          : #111;
 $accentcolor    : $white;
 
 /* buttons */
-$primary			: $black;
+$primary			: $white;
 $success			: #5cb85c;
 $warning			: #dd8338;
 $danger				: #C64537;
@@ -52,7 +52,7 @@ $vimeo-color        : #1ab7ea;
 $youtube-color      : #ff3333;
 
 /* links */
-$linkcolor 		    : #343434;
+$linkcolor 		    : #b9f5b8;
 $link-color       : $linkcolor;
 $linkcolorhover 	: darken($linkcolor, 10);
 $linkcolorvisited : lighten($linkcolorhover, 20);
