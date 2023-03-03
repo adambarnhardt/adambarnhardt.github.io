@@ -4,7 +4,7 @@ excerpt: "About Me..."
 menutitle: Home
 menuorder: 1
 ---
-æ     ɾ   ə   m
+æ     ɾ   ə                                           m
 ![](/images/adam-barnhardt-specto.png)
 
 **How does social meaning interact with language change?**
