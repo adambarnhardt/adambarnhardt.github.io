@@ -18,17 +18,17 @@ $alt-font: $base-font;
    Colors
    ========================================================================== */
 
-$bodycolor      : #fff;
+$bodycolor      : #18453B;
 $body-color     : $bodycolor;
-$textcolor      : #333332;
+$textcolor      : #fff;
 $text-color     : $textcolor;
 $border-color   : $text-color;
-$basecolor 		  : #343434;
+$basecolor 		  : #fff;
 $compcolor 		  : spin($basecolor, 180);
 $bordercolor    : $basecolor;
 $white          : #fff;
 $black          : #111;
-$accentcolor    : $black;
+$accentcolor    : $white;
 
 /* buttons */
 $primary			: $black;
