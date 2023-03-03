@@ -7,11 +7,11 @@ logo: adam-barnhardt-specto.png
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Adam Barnhardt
-  avatar: bio-photo.jpg
+  avatar: adam_barnhardt_picture.jpg
   bio: "A brief description of yourself."
-  email: #emailaddress
+  email: barnha60@msu.edu
   # Do not include the @ symbol in your Twitter username
-  twitter: #username
+  twitter: scheunenherz
   linkedin: #username
   github: #username
   orcid: # ID Number (ex. 0000-0000-0000-0000)
@@ -42,8 +42,8 @@ owner:
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
-highlight-color: '#CC0000'
-lowlight-color: '#000'
+highlight-color: '#18453B'
+lowlight-color: '#000000'
 
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
 creative-commons:
