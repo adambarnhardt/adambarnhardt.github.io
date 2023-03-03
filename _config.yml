@@ -20,7 +20,7 @@ owner:
   google:
     plus: #username
     analytics:
-    verify:
+    verify: <meta name="google-site-verification" content="F75rCSUG3XjMpvA6qp_kVaeWDKy5x-jiBSLpPrHThIY" />
     scholar: #id
   facebook: #username
   instagram: #username
