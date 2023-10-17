@@ -7,4 +7,4 @@ To see a copy of my current CV, please [**click here**](https://drive.google.com
 
 Send me an email at: [barnha60[at]msu[dot]edu](mailto:barnha60@msu.edu)
 
-My Bluesky handle is: [adam-barnhardt.bsky.social](adam-barnhardt.bsky.social)
+My Bluesky handle is: [adam-barnhardt.bsky.social](https://bsky.app/profile/adam-barnhardt.bsky.social)
