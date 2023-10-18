@@ -2,6 +2,7 @@
 layout: page
 menuorder: 3
 menutitle: Selected Publications / Presentations
+title: Selected Publications / Presentations
 ---
 
 ## **Publications**
