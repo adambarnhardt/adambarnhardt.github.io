@@ -1,6 +1,6 @@
 ---
 layout: page
-menuorder: 3
+menuorder: 4
 menutitle: CV / Contact
 ---
 To see a copy of my current CV, please [**click here**](https://drive.google.com/file/d/1rxKR4Jp_CiwZ9It0xT103CKht769-wOS/view?usp=sharing)
