@@ -3,6 +3,8 @@ layout: page
 menuorder: 3
 menutitle: Selected Publications / Presentations
 ---
+# *Selected Publications / Presentations*
+
 ## **Publications**
 
 Betsy Sneller and Adam Barnhardt. (2023). Sociolinguistic prompts in the 21st century: Uniting past approaches and current directions. *Language and Linguistics Compass*, e12484. [https://doi.org/10.1111/lnc3.12484](https://doi.org/10.1111/lnc3.12484)
