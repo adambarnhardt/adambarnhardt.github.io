@@ -3,7 +3,7 @@ layout: page
 menuorder: 3
 menutitle: Selected Publications / Presentations
 ---
-# *Selected Publications / Presentations*
+# **Selected Publications / Presentations**
 
 ## **Publications**
 
