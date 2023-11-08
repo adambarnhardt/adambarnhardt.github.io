@@ -21,4 +21,4 @@ I have worked with language in various capacities outside of my formal education
 In my free time, I enjoy reading a good science fiction or fantasy novel, writing short stories, playing story-driven video games, going to see local live music, traveling around Michigan and exploring cool new places with friends, and playing tennis (although I don't do it nearly enough!).
 
 ![With a group of friends and North Carolina State University colleagues at NWAV 50 in San Jose, CA.](/images/ncsufriends.jpg)
-*With a group of friends and colleagues from North Carolina State University at NWAV 50 in San Jose, CA.*
+*With a group of friends and North Carolina State University colleagues at NWAV 50 in San Jose, CA.*
