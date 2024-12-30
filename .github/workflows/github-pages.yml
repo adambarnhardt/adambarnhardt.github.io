@@ -1,4 +1,4 @@
-name: GitHub Pages
+name: Deploy to GitHub Pages
 
 on:
   push:
@@ -9,30 +9,15 @@ on:
       - main
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
-
-      - name: Set up Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '2.7'
-
-      - name: Install dependencies
-        run: |
-          gem install jekyll bundler
-          bundle install
-
-      - name: Build the site
-        run: |
-          bundle exec jekyll build
-
+        
       - name: Deploy to GitHub Pages
         run: |
-          mkdir gh-pages
-          mv _site/* gh-pages/
+          # This assumes your files are in the root directory
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git init
