@@ -4,8 +4,8 @@ excerpt: "About Me..."
 menutitle: Home
 menuorder: 1
 ---
-<p align="center">
-***How does social meaning interact with language change?***
+<p align="center" style="font-size: 2em; font-style: italic; font-weight: bold;">
+  How does social meaning interact with language change?
 </p>
 
 I'm a PhD student and graduate assistant in Michigan State University's [Department of Linguistics, Languages, and Cultures](https://lilac.msu.edu/linguistics/) where I concentrate in sociolinguistics. I work with [Betsy Sneller](https://people.cal.msu.edu/sneller7/), [Suzanne Evans Wagner](https://people.cal.msu.edu/wagnersu/), [Karthik Durvasula](https://people.cal.msu.edu/durvasul/), and others to investigate questions related to sociophonetics/phonology, language change, and the linguistic construction of identity. I am highly involved in the [MI Diaries](https://mi-diaries.org/) project, a large-scale project conducted by the MSU Sociolinguistics Lab that has been remotely gathering acoustic data (through participant self-recording) from hundreds of Michiganders since early 2020.
