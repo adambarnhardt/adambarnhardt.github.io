@@ -8,7 +8,7 @@ excerpt:
   <img src="/images/adam-barnhardt-specto.png" alt="Adam Barnhardt Spectrogram" />
 </p>
 
-For a while now, I've been considering starting some kind of record of my own idiolect. It seems like it would be a nice resource, one that would both allow me at any given future time point to compare my own speech of past and present, as well as allow me to more easily compare my speech to that of others. I stumbled upon the idea of putting it on my website after visiting Joey Stanley's website and being inspired by [his own idiolect page](https://joeystanley.com/pages/idiolect/). So here's some observations:
+For a while now, I've been considering starting some kind of record of my own idiolect. It seems like it would be a nice resource, one that would both allow me at any given future time point to compare my own speech of past and present, as well as allow me to more easily compare my speech to that of others. I stumbled upon the idea of putting it on my website after visiting Joey Stanley's website and being inspired by [his own idiolect page](https://joeystanley.com/pages/idiolect/). So here are some observations:
 
 # Vowels
 
