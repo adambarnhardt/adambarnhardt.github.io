@@ -4,7 +4,7 @@ menutitle: About me
 menuorder: 2
 excerpt:
 ---
-<p align="center" style="font-size: 1.5em; font-weight: bold;">
+<p align="center" style="font-size: 2em; font-weight: bold;">
   [ˈæɾəm ˈbɑ̃ɹnhɑɹʔ]
 </p>
 
