@@ -1,28 +1,36 @@
-name: Deploy to GitHub Pages
+name: GitHub Pages
 
 on:
   push:
     branches:
-      - main  # Change to your default branch if different
+      - main  # Set the branch you want to trigger the workflow from
   pull_request:
     branches:
       - main
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
-        
-      - name: Deploy to GitHub Pages
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '2.7'
+
+      - name: Install dependencies
         run: |
-          # This assumes your files are in the root directory
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git init
-          git add .
-          git commit -m "Deploy to GitHub Pages"
-          git branch -M gh-pages
-          git remote add origin https://github.com/adambarnhardt/adambarnhardt.github.io.git
-          git push --force --set-upstream origin gh-pages
+          gem install jekyll bundler
+          bundle install
+
+      - name: Build the site
+        run: |
+          bundle exec jekyll build
+
+      - name: Deploy to GitHub Pages
+        uses: jamesives/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages  # The branch to deploy to
+          folder: _site  # The folder to deploy from
