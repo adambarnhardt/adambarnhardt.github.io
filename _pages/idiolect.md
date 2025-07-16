@@ -11,9 +11,11 @@ author_profile: true
 
 For a while now, I've been thinking about starting some kind of record of my own idiolect. It seems like it would be a nice resource, one that would let me make observations about how my own speech might be changing over time, as well as allow me to more easily compare my speech to that of others. I stumbled upon the idea of putting it on my website after visiting Joey Stanley's website and being inspired by [his own idiolect page](https://joeystanley.com/pages/idiolect/). So here are some observations, both of my own speech and my parents':
 
-# Vowels
+# Phonology
 
-## Monophthongs
+## Vowels
+
+### Monophthongs
 
 Under construction!
 
@@ -27,7 +29,7 @@ Under construction!
 
 Under construction!
 
-## Diphthongs
+### Diphthongs
 
 Under construction!
 
@@ -38,5 +40,17 @@ Under construction!
 
 ![My diphthongs compared to my parents'. All from the reading passage condition.](/images/fam_diph_plot.png)
 *My diphthongs compared to my parents'. All from the reading passage condition.*
+
+Under construction!
+
+### Lexicalized idiosyncrasies
+
+Under construction!
+
+## Consonants
+
+Under construction!
+
+# Morphosyntax
 
 Under construction!
