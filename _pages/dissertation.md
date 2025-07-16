@@ -5,4 +5,4 @@ permalink: /dissertation/
 author_profile: true
 ---
 
-My dissertation!
+Check back soon for discussion of my dissertation research!
