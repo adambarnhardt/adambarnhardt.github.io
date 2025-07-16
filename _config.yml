@@ -187,6 +187,7 @@ exclude:
   - README
   - tmp
   - vendor
+  - sitemap.xml
 keep_files:
   - .git
   - .svn
@@ -305,7 +306,7 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
 
