@@ -17,12 +17,12 @@ For a while now, I've been thinking about starting some kind of record of my own
 
 Under construction!
 
-![My monophthongs from two conditions/levels of attention paid to speech: a reading passage and a word list.](images/adam_mono_plot.png)
+![My monophthongs from two conditions/levels of attention paid to speech: a reading passage and a word list.](/images/adam_mono_plot.png)
 *My monophthongs from two conditions/levels of attention paid to speech: a reading passage and a word list.*
 
 Under construction!
 
-![My monophthongs compared to my parents'. All from the reading passage condition.](images/fam_mono_plot.png)
+![My monophthongs compared to my parents'. All from the reading passage condition.](/images/fam_mono_plot.png)
 *My monophthongs compared to my parents'. All from the reading passage condition.*
 
 Under construction!
@@ -31,12 +31,12 @@ Under construction!
 
 Under construction!
 
-![My diphthongs from two conditions/levels of attention paid to speech: a reading passage and a word list.](images/adam_diph_plot.png)
+![My diphthongs from two conditions/levels of attention paid to speech: a reading passage and a word list.](/images/adam_diph_plot.png)
 *My diphthongs from two conditions/levels of attention paid to speech: a reading passage and a word list.*
 
 Under construction!
 
-![My diphthongs compared to my parents'. All from the reading passage condition.](images/fam_diph_plot.png)
+![My diphthongs compared to my parents'. All from the reading passage condition.](/images/fam_diph_plot.png)
 *My diphthongs compared to my parents'. All from the reading passage condition.*
 
 Under construction!
