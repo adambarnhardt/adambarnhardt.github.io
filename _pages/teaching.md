@@ -23,4 +23,4 @@ Spring 2020: ENG 210: Introduction to Language and Linguistics (NCSU, TA)
 
 Fall 2019: ENG 525: Variety in Language (NCSU, TA)
 
-2016 - 2017: 1-on-1 & group introductory German classes (CHICLE Language Institute, instructor
+2016 - 2017: 1-on-1 & group introductory German classes (CHICLE Language Institute, instructor)
