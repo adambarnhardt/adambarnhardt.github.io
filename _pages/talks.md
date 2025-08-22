@@ -11,7 +11,7 @@ Adam Barnhardt. (2024). *Patterns of social meanings indexed to Low-Back-Merger 
 
 Adam Barnhardt. (2023). *Not all sound changes in progress are used in early-adolescent stancetaking*. Paper presented at NWAV 51. NYC, NY.
 
-Betsy Sneller, Suzanne Evans Wagner, Yongqing Ye, Adam Barnhardt, Jack Rechsteiner, & Caroline Zackerman. (2023). *It’s not the THOUGHT that counts for a LOT of Michigan English sound changes*. Paper presented at NWAV 51. (I did not present this paper.)
+Betsy Sneller, Suzanne Evans Wagner, Yongqing Ye, Adam Barnhardt, Jack Rechsteiner, & Caroline Zackerman. (2023). *It’s not the THOUGHT that counts for a LOT of Michigan English sound changes*. Paper presented at NWAV 51. (Paper presented by Betsy Sneller.)
 
 Adam Barnhardt. (2022). *The early-adolescent indexical system amid rapid sound change: How are Northern Cities Shift and Low-Back-Merger Shift vowel realizations employed in acts of stance-taking*? Paper presented at NWAV 50 in Project Launch category. San Jose, CA.
 
