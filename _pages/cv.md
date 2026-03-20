@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-To see a copy of my current CV, please [**click here**](https://drive.proton.me/urls/SV3HEH4S08#La8C62SE46r1).
+To see a copy of my current CV, please [**click here**](https://drive.proton.me/urls/0BSH3MGKF0#LSTZo6OfcOdq).
