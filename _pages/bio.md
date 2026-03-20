@@ -15,7 +15,7 @@ I have worked with language in various capacities outside of my formal education
 ![With some friends and fellow Michigan State University PhD linguistics students.](/images/msufriends.jpg)
 *With some friends and fellow Michigan State University PhD linguistics students.*
 
-In my free time, I enjoy reading a good science fiction or fantasy novel, writing fiction, playing story-driven video games, going to see local live music, traveling around Michigan and exploring cool new places with friends, and playing tennis (although I don't do it nearly enough!). I've also recently started getting into cross-stitch!
+In my free time, I enjoy reading a good science fiction or fantasy novel, writing fiction, playing story-driven video games, going to see local live music, traveling around Michigan and exploring cool new places with friends, and playing tennis (although I don't do it nearly enough!). I've also semi-recently started getting into several textile crafts like embroidery and hand-knitting. I've just gotten started with knitting, so right now I'm working on a scarf, some drink coasters, and a couple baby blankets for friends and family members.
 
 ![With a group of friends and North Carolina State University colleagues at NWAV 50 in San Jose, CA.](/images/ncsufriends.jpg)
 *With a group of friends and North Carolina State University colleagues at NWAV 50 in San Jose, CA.*
