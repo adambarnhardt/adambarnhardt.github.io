@@ -13,4 +13,13 @@ At the heart of my dissertation research is the following question: Are sound ch
 
 ## What sound changes am I looking at?
 
-I'm examining two sound changes that are currently ongoing in Michigan English: the replacement of the Northern Cities Shift vowel system with the Low-Back-Merger-Shift vowel system, and the increasing use of the creaky voice register.
+I'm examining two sound changes that are currently ongoing in Michigan English: the replacement of the Northern Cities Shift (NCS) vowel system with the Low-Back-Merger-Shift (LBMS) vowel system, and the increasing use of the creaky voice register. I'll explain what each of these is in turn.
+
+### Vowel change: NCS -> LBMS
+
+For a long time -- probably for close to 100 years -- a particular vowel pronunciation system has predominated in Michigan English, and much of what linguistics refer to as the ["Inland North"](https://en.wikipedia.org/wiki/Inland_Northern_American_English). This vowel system is typically referred to as the "Northern Cities Shift," and it's been the object of intense linguistic investigation for decades. Click [here](https://www.youtube.com/watch?v=9UoJ1-ZGb1w) to see a video of the founder of modern sociolinguistics, William Labov, explaining the shift in the 2005 documentary *Do You Speak American?* Important to my dissertation work are two vowels in the system: the vowel in TRAP, and the vowel in LOT. In the NCS, these two vowels are pronounced quite differently than in other parts of the US. TRAP is pronounced higher up in the mouth (that is, the tongue is higher up in the mouth), and LOT is pronounced more toward the front of the mouth than in most other American English varieties. This is how linguists typically visualize this:
+
+![From Nesbitt (2021), page 334. In this figure you can see TRAP raising and LOT fronting.](/images/ncs.png)
+*From Nesbitt (2021), page 334. In this figure you can see TRAP raising and LOT fronting.*
+
+
