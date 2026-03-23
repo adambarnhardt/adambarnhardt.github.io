@@ -24,12 +24,11 @@ For a long time -- probably for close to 100 years -- a particular vowel pronunc
   <figcaption>From Nesbitt (2021), page 334. In this figure you can see TRAP raising and fronting and LOT fronting in the NCS.</figcaption>
 </figure>
 
-![From Nesbitt (2021), page 334. In this figure you can see TRAP raising and fronting and LOT fronting in the NCS.](/images/ncs.png)
-*From Nesbitt (2021), page 334. In this figure you can see TRAP raising and fronting and LOT fronting in the NCS.*
-
 The NCS is currently on the decline in Michigan, however -- and in many other areas of the Inland North (Acton et al., 2021; Nesbitt, 2018, 2019, 2021, 2023; Sneller & Greeson, 2025; Wagner, Mason, Nesbitt, Pevan, & Savage, 2016). And it's being replaced by what linguists call the "Low-Back-Merger-Shift." Crucially, this new pattern is primarily defined by movement in the two aforementioned vowels, TRAP and LOT. TRAP is splitting -- the vowel is pronounced lower and backer in the mouth when it's before a consonant like /p/ or /t/, and it's still pronounced high and front when it's before a nasal consonant like /m/ or /n/. In this dissertation I deal primarily with the first kind of TRAP, the one that's lowering and backing in the LBMS. And LOT in the LBMS is being pronounced more toward the back of the mouth, and also in a raised position, so that it's merging with the pronunciation of THOUGHT (Nesbitt, 2021). This is how linguists visualize the LBMS:
 
-![From Nesbitt (2021), page 336. In this figure you can see TRAP lowering and backing and LOT backing and raising.](/images/lbms.png)
-*From Nesbitt (2021), page 336. In this figure you can see TRAP lowering and backing and LOT backing and raising.*
+<figure>
+  <img src="/images/lbms.png" alt="From Nesbitt (2021), page 336. In this figure you can see TRAP lowering and backing and LOT backing and raising.">
+  <figcaption>From Nesbitt (2021), page 336. In this figure you can see TRAP lowering and backing and LOT backing and raising.</figcaption>
+</figure>
 
 So why am I interested in these two vowels?
