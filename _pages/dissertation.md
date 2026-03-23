@@ -28,7 +28,7 @@ If you're not already familiar with how linguists talk about and visualize vowel
 
 <figure>
   <img src="/images/ArticulatoryVowelSpace.png" alt="This is from some lecture notes that were published online by the University of Pennsylvania." style="width: 60%;">
-  <figcaption>This is from some lecture notes that were published online by the University of Pennsylvania. Click [here](https://www.ling.upenn.edu/courses/Fall_2013/ling520/LectureNotes2.html) to view them.</figcaption>
+  <figcaption>This is from some lecture notes that were published online by the University of Pennsylvania. Click <a href="https://www.ling.upenn.edu/courses/Fall_2013/ling520/LectureNotes2.html">here</a> to view them.</figcaption>
 </figure>
 
 That figure shows the position of the tongue when the vowel /i/ (the vowel in "he") is pronounced vs. where the tongue is positioned when the vowel /u/ (the vowel in "who") is pronounced. You can see that the tongue is positioned more forward when /i/ is being produced than for /u/. This shows the front-back distinction. The high-low distinction is just like this, except it moves along the "Y-axis," so to speak, rather than the "X-axis."
