@@ -12,7 +12,11 @@ In my dissertation, I explore the relationship between socioindexical order and 
 
 ### My research question
 
-At the heart of my dissertation research is the following question: Are sound changes that are very socially meaningful more likely to be used in adolescent stylistic practice (and therefore more likely to travel along that particular route of community spread) than sound changes that are much less socially meaningful? If the answer to that question is "yes," then sociolinguistic theory must account for this -- if less meaningful sound changes are not being used stylistically by adolescents, then how are they spreading throughout the community?
+At the heart of my dissertation research is the following question:
+
+**Are sound changes that are very socially meaningful more likely to be used in adolescent stylistic practice (and therefore more likely to travel along that particular route of community spread) than sound changes that are much less socially meaningful?**
+
+If the answer to that question is "yes," then sociolinguistic theory must account for this -- if less meaningful sound changes are not being used stylistically by adolescents, then how are they spreading throughout the community?
 
 ## What sound changes am I looking at?
 
@@ -45,4 +49,23 @@ The NCS is currently on the decline in Michigan -- and in many other areas of th
 
 So why am I interested in these two vowels? Well, if you compare the figure for the NCS with the figure for the LBMS, you'll see that they actually look very similar. The vowels that show serious differentiation between the two are TRAP and LOT. Because I'm interested in how social meaning interacts with the way sound change takes place, I'm looking at TRAP and LOT -- because they're the two vowels that stand to be noticed by speakers, as they sound different depending on if they're pronounced in the NCS way or the LBMS way. And because they stand to be noticed, they also stand to have social meaning attributed to them. In fact, Michiganders were adamant for a long time that they didn't have any accent at all (Preston, 1996). What they meant by this was that they thought they spoke "Standard American English." This was in large part due to the fact that most people in Michigan mainly interacted with other Michiganders that sounded the same as they did. But this perception has started to change, along with the pronunciations themselves. Because the way that TRAP and LOT are being pronounced is changing generationally (younger people sound different than older people), Michiganders are able to hear that they do, in fact, have an accent. And I'm interested in this process -- what other kinds of social meaning are Michiganders attributing to this vowel variation? And crucially, are these social meanings allowing the new LBMS pronunciations to be used in stylistic practice?
 
-So I devised an experiment to investigate these potential social meanings. 
+So I devised an experiment to investigate these potential social meanings. This experiment was a matched-guise test -- I recorded a speaker (who could naturally pronounce TRAP and LOT in both an NCS and LBMS way) reading a passage that had several tokens of both vowels in it. I asked her to read it first in an NCS way, and then in an LBMS. Then I had her read it one more time. I took this last recording and duplicated it. I extracted her NCS pronunciations from her NCS recording and spliced them into one version. And I took her LBMS pronunciations from her LBMS recording and spliced them into the other version. So then I had two versions of her recording that only differed in terms of those specific vowel pronunciations. I then recruited around 100 college-aged native speakers of Michigan English -- half of them were played the NCS version, and half were played the LBMS version. All of them were asked various questions about the speaker's characteristics and what the recording made them think about the person. These questions were answered on a bounded sliding scale, i.e., "How likely do you think it is that this person is from the American West Coast? Choose a value from 1 to 100, where '1' is 'very unlikely' and '100' is 'extremely likely.'"
+
+The characteristics that were probed (which were chosen based on previous open-ended piloting of the testing stimuli) can be separated into two groups based on sociolinguistic theory. This theoretical divide corresponds with the distinction between "very socially meaningful" vs. "much less socially meaningful" I mention in my research question:
+
+**Are sound changes that are very socially meaningful more likely to be used in adolescent stylistic practice (and therefore more likely to travel along that particular route of community spread) than sound changes that are much less socially meaningful?**
+
+Specifically, these characteristics (referred to as lower-order meanings in the literature) are theorized to be more primary, less complicated, and less useful in stylistic practice (Eckert, 2008, 2018; John-
+stone, 2009; Johnstone et al., 2006; Labov, 1972; Silverstein, 2003; Sneller and Roberts, 2018): Younger/older, accented, Michigander, Midwestern, rural, wealthy, and (from the) West Coast. And these characteristics (referred to as higher-order meanings in the literature) are theorized to be developed on top of lower-order meanings, more complicated, and more useful in stylistic practice: Annoying, educated, feminine, intelligent, spoiled, and (sounds like a) TikTok influencer.
+
+<figure>
+  <img src="/images/first_chars_plot" alt="Distribution of MGT evaluations across guises for first-order social meaning questions. NCS = green; LBMS = blue. Alpha thresholds: *** < .0001; ** < .001; * < .01." style="width: 60%;">
+  <figcaption>Distribution of MGT evaluations across guises for first-order social meaning questions. NCS = green; LBMS = blue. Alpha thresholds: *** < .0001; ** < .001; * < .01.</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/first_chars_plot" alt="Estimation of MGT speaker’s age across guise. NCS = green; LBMS = blue. Alpha thresholds: *** < .0001; ** < .001; * < .01." style="width: 60%;">
+  <figcaption>Estimation of MGT speaker’s age across guise. NCS = green; LBMS = blue. Alpha thresholds: *** < .0001; ** < .001; * < .01.</figcaption>
+</figure>
+
+Looking at the distribution of ratings assigned to lower-order meanings (the two figures above), one can see that several categories show a significant difference between the NCS and LBMS recording conditions.
