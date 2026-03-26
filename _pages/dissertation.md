@@ -59,12 +59,12 @@ Specifically, these characteristics (referred to as lower-order meanings in the 
 stone, 2009; Johnstone et al., 2006; Labov, 1972; Silverstein, 2003; Sneller and Roberts, 2018): Younger/older, accented, Michigander, Midwestern, rural, wealthy, and (from the) West Coast. And these characteristics (referred to as higher-order meanings in the literature) are theorized to be developed on top of lower-order meanings, more complicated, and more useful in stylistic practice: Annoying, educated, feminine, intelligent, spoiled, and (sounds like a) TikTok influencer.
 
 <figure>
-  <img src="/images/first_chars_plot" alt="Distribution of MGT evaluations across guises for first-order social meaning questions. NCS = green; LBMS = blue. Alpha thresholds: *** < .0001; ** < .001; * < .01." style="width: 60%;">
+  <img src="/images/first_chars_plot.png" alt="Distribution of MGT evaluations across guises for first-order social meaning questions. NCS = green; LBMS = blue. Alpha thresholds: *** < .0001; ** < .001; * < .01." style="width: 60%;">
   <figcaption>Distribution of MGT evaluations across guises for first-order social meaning questions. NCS = green; LBMS = blue. Alpha thresholds: *** < .0001; ** < .001; * < .01.</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/first_chars_plot" alt="Estimation of MGT speaker’s age across guise. NCS = green; LBMS = blue. Alpha thresholds: *** < .0001; ** < .001; * < .01." style="width: 60%;">
+  <img src="/images/age_plot.png" alt="Estimation of MGT speaker’s age across guise. NCS = green; LBMS = blue. Alpha thresholds: *** < .0001; ** < .001; * < .01." style="width: 60%;">
   <figcaption>Estimation of MGT speaker’s age across guise. NCS = green; LBMS = blue. Alpha thresholds: *** < .0001; ** < .001; * < .01.</figcaption>
 </figure>
 
