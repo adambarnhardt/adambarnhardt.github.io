@@ -14,7 +14,7 @@ In my dissertation, I explore the relationship between socioindexical order and 
 
 At the heart of my dissertation research is the following question:
 
-**Are sound changes that are very socially meaningful more likely to be used in adolescent stylistic practice (and therefore more likely to travel along that particular route of community spread) than sound changes that are much less socially meaningful?**
+*Are sound changes that are very socially meaningful more likely to be used in adolescent stylistic practice (and therefore more likely to travel along that particular route of community spread) than sound changes that are much less socially meaningful?*
 
 If the answer to that question is "yes," then sociolinguistic theory must account for this -- if less meaningful sound changes are not being used stylistically by adolescents, then how are they spreading throughout the community?
 
@@ -53,14 +53,14 @@ So I devised an experiment to investigate these potential social meanings. This 
 
 The characteristics that were probed (which were chosen based on previous open-ended piloting of the testing stimuli) can be separated into two groups based on sociolinguistic theory. This theoretical divide corresponds with the distinction between "very socially meaningful" vs. "much less socially meaningful" I mention in my research question:
 
-**Are sound changes that are very socially meaningful more likely to be used in adolescent stylistic practice (and therefore more likely to travel along that particular route of community spread) than sound changes that are much less socially meaningful?**
+*Are sound changes that are very socially meaningful more likely to be used in adolescent stylistic practice (and therefore more likely to travel along that particular route of community spread) than sound changes that are much less socially meaningful?*
 
-Specifically, these characteristics (referred to as lower-order meanings in the literature) are theorized to be more primary, less complicated, and less useful in stylistic practice (Eckert, 2008, 2018; John-
-stone, 2009; Johnstone et al., 2006; Labov, 1972; Silverstein, 2003; Sneller and Roberts, 2018): Younger/older, accented, Michigander, Midwestern, rural, wealthy, and (from the) West Coast. And these characteristics (referred to as higher-order meanings in the literature) are theorized to be developed on top of lower-order meanings, more complicated, and more useful in stylistic practice: Annoying, educated, feminine, intelligent, spoiled, and (sounds like a) TikTok influencer.
+Specifically, these characteristics (referred to as lower-order meanings in the literature) are theorized to be more fundamental, less complicated, and less useful in stylistic practice (Eckert, 2008, 2018; John-
+stone, 2009; Johnstone et al., 2006; Labov, 1972; Silverstein, 2003; Sneller and Roberts, 2018): Younger/older, accented, Michigander, Midwestern, rural, wealthy, and (from the) West Coast. And these characteristics (referred to as higher-order meanings in the literature) are theorized to be developed on top of lower-order meanings, more complicated, and more useful in stylistic practice: Annoying, educated, feminine, intelligent, spoiled, and (sounds like a) TikTok influencer. Take a look at these figures:
 
 <figure>
-  <img src="/images/first_chars_plot.png" alt="Distribution of MGT evaluations across guises for first-order social meaning questions. NCS = green; LBMS = blue. Alpha thresholds: *** < .0001; ** < .001; * < .01." style="width: 60%;">
-  <figcaption>Distribution of MGT evaluations across guises for first-order social meaning questions. NCS = green; LBMS = blue. Alpha thresholds: *** < .0001; ** < .001; * < .01.</figcaption>
+  <img src="/images/first_chars_plot.png" alt="Distribution of MGT evaluations across guises for lower-order social meaning questions. NCS = green; LBMS = blue. Alpha thresholds: *** < .0001; ** < .001; * < .01." style="width: 60%;">
+  <figcaption>Distribution of MGT evaluations across guises for lower-order social meaning questions. NCS = green; LBMS = blue. Alpha thresholds: *** < .0001; ** < .001; * < .01.</figcaption>
 </figure>
 
 <figure>
@@ -69,4 +69,15 @@ stone, 2009; Johnstone et al., 2006; Labov, 1972; Silverstein, 2003; Sneller and
   <figcaption>Estimation of MGT speaker's age across guise. NCS = green; LBMS = blue. Alpha thresholds: *** < .0001; ** < .001; * < .01.</figcaption>
 </figure>
 
-Looking at the distribution of ratings assigned to lower-order meanings (the two figures above), one can see that several categories show a significant difference between the NCS and LBMS recording conditions.
+Looking at the distribution of ratings assigned to lower-order meanings, one can see that several categories show a significant difference between the NCS and LBMS recording conditions. These are accent, West Coast, and age. That is, listeners consistently rated the presumed speaker of the NCS guise (recording version) as older and more accented than the presumed speaker of the LBMS guise. The presumed LBMS speaker, on the other hand, was consistently rated as more likely to be from from the American West Coast. Now take a look at this plot:
+
+<figure>
+  <img src="/images/higher_chars_plot.png" alt="Distribution of MGT evaluations across guises for higher-order social meaning questions. NCS = green; LBMS = blue. Alpha thresholds: *** < .0001; ** < .001; * < .01." style="width: 60%;">
+  <figcaption>Distribution of MGT evaluations across guises for higher-order social meaning questions. NCS = green; LBMS = blue. Alpha thresholds: *** < .0001; ** < .001; * < .01.</figcaption>
+</figure>
+
+This plot shows listeners’ ratings of the different higher-order social meanings. None of these differ meaningfully on the basis of guise type. That is, the presumed NCS guise speaker was not rated as significantly different than the presumed LBMS speaker. It appears, therefore, that Michiganders are not assigning complicated social meaning to either variant of this sound change (either the NCS or LBMS). They are assigning lower-order meaning, but not the kind of higher-order meanings that are theorized to be particularly useful when performing the kind of stylistic signaling that I'm interested in. That is, the use of the NCS or LBMS to signal aspects of one's identity or social positioning to other people. So if I did find evidence that adolescent speakers are using NCS/LBMS TRAP/LOT to do stylistic work, this would be surprising.
+
+## Prosodic change: Modal voice -> creaky voice
+
+The other sound change in progress in Michigan English that I'm examining in my dissertation is the increasing use of creaky voice register among younger speakers.
