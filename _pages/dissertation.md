@@ -65,7 +65,7 @@ stone, 2009; Johnstone et al., 2006; Labov, 1972; Silverstein, 2003; Sneller and
 
 <figure>
   <img src="/images/age_plot.png" alt="Estimation of MGT speaker's age across guise. NCS = green; LBMS = blue. Alpha thresholds: *** < .0001; ** < .001; * < .01." 
-    style="max-width: 40%; height: auto;">
+    style="max-width: 25%; height: auto;">
   <figcaption>Estimation of MGT speaker's age across guise. NCS = green; LBMS = blue. Alpha thresholds: *** < .0001; ** < .001; * < .01.</figcaption>
 </figure>
 
