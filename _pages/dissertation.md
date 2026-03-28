@@ -85,9 +85,9 @@ Although Callier and Podesva (2015) found that increasing rates of creaky voice 
 
 To conduct this apparent time study, I processed speakers' (47 women, 30 men) recordings using the REAPER (Robust Epoch And Pitch EstimatoR) software (Talkin, 2015) and antimode method (Dallaston & Docherty, 2019; White, Penney, Gibson, Szakay, & Cox, 2022). This took every 10-millisecond-long chunk of speech and compared it to creaky vs. non-creaky mode and antimode values for each recording, and then assigned that chunk 1 if it fell below the antimode (creaky) and 0 if it didn't (non-creaky). From this data I was then able to generate mean creakiness values for each speaker. This is what it looks like when I plot these mean values across birthyear:
 
-<figure>
+<figure style="display: block;">
   <img src="/images/speaker_means_birthyear_gender_plot.png" alt="Speaker mean creakiness across birthyear." style="width: 60%;">
   <figcaption>Speaker mean creakiness across birthyear.</figcaption>
 </figure>
 
-Creakiness is increasing across apparent time for both men and women, although women are leading in this pattern. This corrosponds neatly with Labov’s (2001) foundational assertion that “in the good majority of linguistic changes, women are a full generation ahead of men” (p. 501).
+Creakiness is increasing across apparent time for both men and women, although women are leading in this pattern. This corresponds neatly with Labov’s (2001) foundational assertion that “in the good majority of linguistic changes, women are a full generation ahead of men” (p. 501). The peak year -- often referred to in the sociolinguistic literature as the "adolescent peak," the period where the adolescent social drive to adopt a sound change is maximal -- for female speakers is also six years before the peak year for male speakers. This may suggest that increasing rates of creak in Michigan English is a sound change that's been going on for some time, and may be nearing completion for female speakers, while male speakers are catching up to them. Because the speaker sample is somewhat imbalanced in terms of gender, however (less male speakers than female speakers), I don't feel confident in strongly asserting this.
