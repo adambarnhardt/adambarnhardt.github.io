@@ -14,3 +14,9 @@ Betsy Sneller and Adam Barnhardt. (2023). "Sociolinguistic prompts in the 21st c
 ## Conference Proceedings:
 
 Yongqing Ye and Adam Barnhardt. (Submitted). Authenticity, trustworthiness, and longevity: Centering research participants’ voices in MI Diaries. *Studies in the Linguistic Sciences: Illinois Working Papers*.
+
+## Doctoral qualifying papers:
+
+Adam Barnhardt. (2025). Sound change does not need to be linked to higher-order social meanings to spread. Doctoral qualifying paper, Michigan State University. [Click here to access.](https://drive.proton.me/urls/FR9JQW1RJG#5LHNEmBSaYei)
+
+Adam Barnhardt. (2023). The developmental imperative and indexical fields: What conditions variation for use in early-adolescent stancetaking? Doctoral qualifying paper, Michigan State University. [Click here to access.](https://drive.proton.me/urls/VWFYCGYXM4#l8XmGJiBCxxD)
